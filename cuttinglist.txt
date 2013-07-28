@@ -1,0 +1,15 @@
+vertical extrusion x2:	375	750
+angle extrusion x2:	305	610
+short bottom x4:	155.5	622
+top extrusion x1:	383	383
+frame extrusion x4:	330	1320
+
+				3685
+
+
+top + vert +
+vert + angle + angle
+
+frame + frame + short bottom + short bottom
+frame + frame + short bottom + short bottom
+
